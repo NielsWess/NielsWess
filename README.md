@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Niels! 🚀
 
-<!--
-**NielsWess/NielsWess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I work on **SAP Service Asset Manager** and work on building solutions that optimize asset management in enterprise environments. 🌟
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 **What is SAP Service Asset Manager?**
+SAP Service Asset Manager is a mobile-first, cloud-based application designed to help service professionals manage and maintain assets in the field. It provides tools to improve asset tracking, maintenance scheduling, and reporting.
+
+---
+
+### 🛠️ **Technologies Used:**
+- **Backend**: SAP Cloud Platform, Node.js
+- **Mobile**: SAP Fiori, SAP Mobile Services
+- **Tools**: SAP HANA, Git, Docker
+
+---
